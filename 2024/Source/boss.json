@@ -1,0 +1,11 @@
+{
+	"name": "DelphiDay",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"https://bitbucket.org/sglienke/spring4d": "^2.0.1"
+	}
+}

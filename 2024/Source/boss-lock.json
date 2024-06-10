@@ -1,0 +1,14 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2024-06-07T06:13:00.5945189+02:00",
+	"installedModules": {
+		"https://bitbucket.org/sglienke/spring4d": {
+			"name": "spring4d",
+			"version": "2.0.1",
+			"hash": "55cc14d8f1574adfd64ed1b2d685dc7c",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
